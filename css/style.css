@@ -1,0 +1,23 @@
+.my-sec
+{
+    height:200px;
+background-image: url('../images/c.jpeg');
+background-size: cover;
+background-attachment: fixed;
+}.my-sid
+{
+    height:200px;
+    width: 300px;
+     background-size: cover;
+     
+     
+
+
+}
+.my-sec-inner
+{
+    //background-color: rgba(255,0,0,0.5);
+    opacity: 0.5;
+    color:white;
+    
+}
